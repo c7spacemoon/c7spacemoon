@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c7spacemoon
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on learned skills
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me C7SPACEMOON@gmail.com
 
 <!---
